@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 150px;
+}
+.main{
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    padding: 50px 50px;
+}
+.Red{
+    height: 100px;
+    width: 500px;
+    background-color:rgba(237, 27, 36) ;
+    
+}
+.White{
+    height: 12px;
+    width: 500;
+    background-color: white;
+}
+.Blue{
+    height: 100px;
+    width: 500px;
+    background-color:rgba(0, 101, 179) ;
+}
+.Green{
+    height: 100px;
+    width: 500px;
+    background-color:rgba(0, 166, 82) ;
+}
+a{
+    color: black;
+    text-decoration: none;
+}

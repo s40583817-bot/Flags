@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+body{
+    background-color: black;
+}
+.main{
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    padding: 50px 50px;
+}
+.White{
+    height: 150px;
+    width: 500px;
+    background-color:rgba(190, 0, 38) ;
+}
+.Red{
+    height: 150px;
+    width: 500px;
+    background-color:rgba(255, 255, 255) ;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
